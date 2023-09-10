@@ -1,0 +1,74 @@
+{
+    "skills":[
+        {
+            "id":1,
+            "src":"",
+            "title":"Front-End",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia tempora debitis perferendis fuga provident officiis"
+        },
+        {
+            "id":2,
+            "src":"",
+            "title":"Back-End",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia tempora debitis perferendis fuga provident officiis"
+        },
+        {
+            "id":3,
+            "src":"",
+            "title":"Associate",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia tempora debitis perferendis fuga provident officiis"
+        },
+        {
+            "id":4,
+            "src":"",
+            "title":"Front-End",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia tempora debitis perferendis fuga provident officiis"
+        }
+    ],
+    "portfolio":[
+        {
+            "id":1,
+            "src":"",
+            "title":"To DO List",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia tempora debitis perferendis fuga provident officiis"
+        },
+        {
+            "id":2,
+            "src":"",
+            "title":"Billing Application",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia tempora debitis perferendis fuga provident officiis"
+        },
+        {
+            "id":3,
+            "src":"",
+            "title":"Youtube Clone",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia tempora debitis perferendis fuga provident officiis"
+        }   
+    ],
+    "testimonial":[
+        {
+            "id":1,
+            "count":"5",
+            "src":"",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia tempora debitis perferendis fuga provident officiis",
+            "author_name":"Dianne Russel",
+            "author_designation":"Starbucks"
+        },
+        {
+            "id":2,
+            "count":"5",
+            "src":"",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia tempora debitis perferendis fuga provident officiis",
+            "author_name":"Watson",
+            "author_designation":"Louis vuitton"
+        },
+        {
+            "id":1,
+            "count":"5",
+            "src":"",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia tempora debitis perferendis fuga provident officiis",
+            "author_name":"Jhon",
+            "author_designation":"McDonald's"
+        }   
+    ]
+}
